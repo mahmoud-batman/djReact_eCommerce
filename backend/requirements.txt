@@ -1,0 +1,17 @@
+django==2.2.7
+psycopg2>=2.7.5,<2.8.0
+djangorestframework==3.10.3
+markdown
+django-filter
+django-rest-auth==0.9.5
+django-allauth==0.42.0
+django-cors-headers==2.4.0
+Pillow
+
+# decouple
+python-decouple==3.1
+
+# SSL 
+django-extensions
+Werkzeug
+pyOpenSSL
